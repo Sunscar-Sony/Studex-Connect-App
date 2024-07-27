@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hello World of Students</Text>
+      <Text>Hey Wassup ?</Text>
       <StatusBar style="auto" />
     </View>
   );
